@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wpedantic -Werror -Wl,--dependency-file=CMakeFiles/mush.dir/link.d CMakeFiles/mush.dir/src/main.c.o -o mush  /usr/lib/x86_64-linux-gnu/libSM.so /usr/lib/x86_64-linux-gnu/libICE.so /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so
