@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/ghaith/main/dev/mush/include
+C_INCLUDES = 
 
 C_FLAGS =  -Wall -Wextra -Wpedantic -Werror -std=gnu11
 
